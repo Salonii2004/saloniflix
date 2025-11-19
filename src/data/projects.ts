@@ -92,7 +92,7 @@ export const projects: Project[] = [
     category: "ai",
     thumbnail: "/images/vehicle-detection.jpg",
     tech: ["Python", "OpenCV", "YOLOv5", "DeepSORT"],
-    github: "https://github.com/saloni/vehicle-detection",
+    github: "https://github.com/Salonii2004/Vehicle_Detection_classification_counting",
     video: "/videos/vehicle-detection.mp4",
     description:
       "A deep learning system that detects, classifies, and counts vehicles in real-time from traffic footage.",
@@ -105,7 +105,7 @@ export const projects: Project[] = [
     category: "web",
     thumbnail: "/images/community-support.jpg",
     tech: ["Angular", "PostgreSQL", ".NET", "JWT"],
-    github: "https://github.com/saloni/community-support",
+    github: "https://github.com/Salonii2004/community-support",
     video: "/videos/community-support.mp4",
     description:
       "A social support platform for communities to share problems, solutions, and organize events.",
@@ -118,7 +118,7 @@ export const projects: Project[] = [
     category: "web",
     thumbnail: "/images/bus-booking.jpg",
     tech: ["Django", "Python", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/saloni/bus-booking",
+    github: "https://github.com/Salonii2004/bus-booking",
     video: "/videos/bus-booking.mp4",
     description:
       "An online platform that allows users to search, book, and manage bus tickets conveniently.",
