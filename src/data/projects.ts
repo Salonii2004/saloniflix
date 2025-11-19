@@ -40,7 +40,7 @@ export const projects: Project[] = [
       "PostgreSQL",
       "Ollama",
     ],
-    github: "https://github.com/saloni/knowly",
+    github: "https://github.com/Salonii2004/Knowly",
     video: "/videos/knowly-demo.mp4",
     description:
       "Knowly is an AI-powered document intelligence platform that allows users to upload, search, and interact with their documents through natural language. Built with React, Node.js, and PostgreSQL, it integrates Ollama’s local LLM inference with a Retrieval-Augmented Generation (RAG) pipeline to deliver precise, context-aware answers from uploaded PDFs and text files.",
